@@ -138,8 +138,8 @@ Built for Digital Heroes
 </a>
 
 <div class="footer">
-    <strong>Your Full Name</strong><br>
-    youremail@example.com
+    <strong>Vimarsha Bhardwaj</strong><br>
+    vimarsha2947@gmail.com
 </div>
 
 </div>
